@@ -1,3 +1,8 @@
-body {
-    background-color: skyblue;
+.bd-green-200 {
+    color: #000;
+    background-color: #a3cfbb;
+}
+
+header {
+    padding-bottom: 6rem;
 }
