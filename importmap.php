@@ -26,4 +26,14 @@ return [
         'version' => '5.3.8',
         'type' => 'css',
     ],
+    'bootstrap/dist/js/bootstrap.bundle.min.js' => [
+        'version' => '5.3.8',
+        'type' => 'js',
+    ],
+    '@hotwired/stimulus' => [
+        'version' => '3.2.2',
+    ],
+    '@symfony/stimulus-bundle' => [
+        'path' => './vendor/symfony/stimulus-bundle/assets/dist/loader.js',
+    ],
 ];
